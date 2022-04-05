@@ -9,3 +9,6 @@ Build images
 Send images to eg dockerhub
 Provision cluster with images, built into container
 Specify an env
+Trigger slack messages
+
+NETWORKING - how the pods/nodes communicate with each other
