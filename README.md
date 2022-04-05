@@ -12,3 +12,8 @@ Specify an env
 Trigger slack messages
 
 NETWORKING - how the pods/nodes communicate with each other
+
+One zonal cluster per billing account is free on GKE
+
+Using: https://learn.hashicorp.com/tutorials/terraform/gke
+
